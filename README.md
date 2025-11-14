@@ -1,8 +1,45 @@
-# React + Vite
+# Employee Management System (EMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Employee Task Management System built using **React**, **Vite**, **Context API**, and **LocalStorage**.  
+This project allows Admins and Employees to manage tasks, track progress, and view personalized dashboards.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+### 👨‍💼 Admin Features
+- Secure admin login  
+- Create tasks for employees  
+- Assign category, description, and deadlines  
+- View employee stats:
+  - New Tasks
+  - Active Tasks
+  - Completed Tasks
+  - Failed Tasks  
+- Logout functionality  
+
+### 👨‍🔧 Employee Features
+- Secure employee login  
+- View tasks assigned to them  
+- Update task status  
+- Track personal progress  
+- Personalized dashboard  
+- Logout functionality  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React JS (Vite)**
+- **Context API**
+- **LocalStorage**
+- **Tailwind CSS**
+- **JavaScript (ES6)**  
+
+---
+
+## 📥 Installation and Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/ryana3112/employee-management-system
