@@ -2,7 +2,7 @@
 
 <p align="center">
   A modern Employee Task Management System built using <b>React (Vite)</b>, <b>Context API</b>, and <b>LocalStorage</b>.  
-  Admins and Employees can manage tasks, track progress, and view personalized dashboards.
+  Admins and Employees can manage tasks, track progress, and view personalized dashboards. 
 </p>
 
 ---
